@@ -1,0 +1,30 @@
+{
+    "catalog": [
+	{
+	    "type": "group",
+	    "name": "CNES",
+	    "items": [
+		{
+		    "url": "https://theia.cnes.fr/cgi-bin/mapserv",
+		    "name": "SpotWorldHeritage",
+		    "type": "wms-getCapabilities",
+		    "parameters": { 
+			"map": "/data/spotworldheritage/wms/map.map",
+			"file": "SPOT4_HRVIR1_XS_20081229_N1_SCENE_041_256"
+				  },
+		    "extra": "map=/data/spotworldheritage/wms/map.map&file=SPOT4_HRVIR1_XS_20081229_N1_SCENE_041_256"
+		},
+		{
+		    "url": "https://theia.cnes.fr/cgi-bin/mapserv",
+		    "name": "LandSat",
+		    "type": "wms-getCapabilities",
+		    "parameters": { 
+			"map": "/data/landsat/wms/map.map",
+			"file": "LANDSAT8_OLITIRS_XS_20151128_N2A_France-MetropoleD0003H0003"
+				  },
+		    "extra": "map=/data/landsat/wms/map.map&file=LANDSAT8_OLITIRS_XS_20151128_N2A_France-MetropoleD0003H0003"
+		}
+	    ]
+	}
+    ]
+}

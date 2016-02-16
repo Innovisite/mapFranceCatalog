@@ -1,0 +1,14 @@
+{
+  "services": [],
+  "homeCamera": {
+    "north": 52,
+    "east": 12,
+    "south": 40,
+    "west": -7
+  },
+  "corsDomains": [
+    "corsproxy.com",
+    "mapsengine.google.com",
+    "s3-ap-southeast-2.amazonaws.com"
+  ]
+}

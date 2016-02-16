@@ -1,0 +1,24 @@
+{
+  "name": "map-france-catalog",
+  "version": "1.0.0",
+  "description": "TerriaJS catalog for Innovisite Map France",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Innovisite/mapFranceCatalog.git"
+  },
+  "author": "fabien.pelisson@innovisite.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Innovisite/mapFranceCatalog/issues"
+  },
+  "homepage": "https://github.com/Innovisite/mapFranceCatalog#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jsoncombine": "^1.0.3",
+    "mkdirp": "^0.5.1"
+  }
+}

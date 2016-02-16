@@ -1,0 +1,10 @@
+node_modules/
+.idea/
+error.log
+output.log
+npm-debug.log
+version.js
+.DS_Store
+.localized
+dist/
+

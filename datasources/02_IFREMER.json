@@ -1,0 +1,45 @@
+{
+    "catalog": [
+	{
+	    "items": [
+		{
+		    "url": "http://www.ifremer.fr/services/photos_anciennes",
+		    "name": "Photos anciennes du littoral",
+		    "type": "wms-getCapabilities"
+		},
+		{
+		    "url": "http://www.ifremer.fr/ifremerWS/WS/wms/MNT",
+		    "name": "Bathymétrie",
+		    "type": "wms-getCapabilities"
+		},
+		{
+		    "url": "http://www.ifremer.fr/services/wms/oceanographie_physique",
+		    "name": "Océanographie physique",
+		    "type": "wms-getCapabilities"
+		},
+		{
+		    "url": "http://www.ifremer.fr/services/wms/biologie",
+		    "name": "Biologie",
+		    "type": "wms-getCapabilities"
+		},
+		{
+		    "url": "http://www.ifremer.fr/services/wms/geosciences",
+		    "name": "Géosciences",
+		    "type": "wms-getCapabilities"
+		},
+		{
+		    "url": "http://www.ifremer.fr/services/wms/surveillance_littorale",
+		    "name": "Surveillance du littoral",
+		    "type": "wms-getCapabilities"
+		},
+		{
+		    "url": "http://www.ifremer.fr/services/wms/ocean_indien",
+		    "name": "Ocean Indien",
+		    "type": "wms-getCapabilities"
+		}		
+	    ],
+	    "type": "group",
+	    "name": "Ifremer"
+	}
+    ]
+}

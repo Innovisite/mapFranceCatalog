@@ -1,0 +1,9 @@
+{
+    "catalog": [
+	{
+	    "url": "http://portail-sig.ville-larochelle.fr/opendata/carteWS.php",
+	    "name": "La Rochelle OpenData",
+	    "type": "wms-getCapabilities"
+	}
+    ]
+}
