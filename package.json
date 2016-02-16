@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Innovisite/mapFranceCatalog#readme",
   "devDependencies": {
+    "gh-release": "^2.0.2",
     "gulp": "^3.9.1",
     "gulp-jsoncombine": "^1.0.3",
     "mkdirp": "^0.5.1"
