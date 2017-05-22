@@ -6,4 +6,6 @@ npm-debug.log
 version.js
 .DS_Store
 .localized
+yarn.lock
+
 
