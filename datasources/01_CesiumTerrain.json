@@ -3,7 +3,7 @@
 	{
 	    "items": [
 		{
-		    "id": "terrain_puydedome_50",
+		    "id": "terrain_puydedome_50cm",
 		    "url": "http://maps.innovisite.com/data/Auvergne/terrain/tiles",
 		    "name": "Puy de Dome 50cm",
 		    "dataCustodian": "<a href='http://www.innovisite.com'>[Innovisite]</a> pour le format 3D spécifique permettant le rendu WebGL et le <a href='http://www.craig.fr/'>[CRAIG]</a> pour les sources de données brutes.",
@@ -24,11 +24,12 @@
 		    ]
 		},
 		{
-		    "url": "http://www.innovisite.com/data/Nice/terrain/tiles",
+			"id": "terrain_nice_5m",
+		    "url": "http://maps.innovisite.com/data/Nice/terrain/tiles",
 		    "name": "Nice Côte d'Azur 5m",
 		    "dataCustodian": "<a href='http://www.innovisite.com'>[Innovisite]</a> pour le format 3D spécifique permettant le rendu WebGL et <a href='http://opendata.nicecotedazur.org/'>[OpenData Nice Côte d'Azur]</a> pour les sources de données brutes.",
 		    "type": "cesium-terrain",
-		    "dataUrlType": "indirect",
+		    "dataUrlType": "none",
 		    "rectangle": [
 			"6.396",
 			"43.628",
@@ -44,11 +45,12 @@
 
 		},
 		{
-		    "url": "http://www.innovisite.com/data/Lyon/terrain/tiles",
+			"id": "terrain_lyon_10m",
+		    "url": "http://maps.innovisite.com/data/Lyon/terrain/tiles",
 		    "name": "Grand Lyon 10m",
 		    "dataCustodian": "<a href='http://www.innovisite.com'>[Innovisite]</a> pour le format 3D spécifique permettant le rendu WebGL et <a href='http://http://data.grandlyon.com/'>[Data Grand Lyon]</a> pour les sources de données brutes.",
 		    "type": "cesium-terrain",
-		    "dataUrlType": "indirect",
+		    "dataUrlType": "none",
 		    "rectangle": [
 			"4.321",
 			"45.511",
@@ -64,11 +66,12 @@
 
 		},
 		{
-		    "url": "http://www.innovisite.com/data/Aurillac/terrain/tiles",
+			"id": "terrain_aurillac_5m",
+		    "url": "http://maps.innovisite.com/data/Aurillac/terrain/tiles",
 		    "name": "Aurillac 5m",
 		    "dataCustodian": "<a href='http://www.innovisite.com'>[Innovisite]</a> pour le format 3D spécifique permettant le rendu WebGL et le <a href='http://www.craig.fr/'>[CRAIG]</a> pour les sources de données brutes.",
 		    "type": "cesium-terrain",
-		    "dataUrlType": "indirect",
+		    "dataUrlType": "none",
 		    "rectangle": [
 			"2.282",
 			"44.857",
@@ -84,11 +87,12 @@
 
 		},
 		{
-		    "url": "http://www.innovisite.com/data/Cantal/terrain/tiles",
+			"id": "terrain_cantal_10m",
+		    "url": "http://maps.innovisite.com/data/Cantal/terrain/tiles",
 		    "name": "Cantal 10m",
 		    "dataCustodian": "<a href='http://www.innovisite.com'>[Innovisite]</a> pour le format 3D spécifique permettant le rendu WebGL et le <a href='http://www.craig.fr/'>[CRAIG]</a> pour les sources de données brutes.",
 		    "type": "cesium-terrain",
-		    "dataUrlType": "indirect",
+		    "dataUrlType": "none",
 		    "rectangle": [
 			"2.282",
 			"44.857",
