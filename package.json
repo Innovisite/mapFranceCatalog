@@ -7,10 +7,7 @@
     "test": "echo \"Warning: no test specified\" && exit 0",
     "release": "scripts/release.sh"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Innovisite/mapFranceCatalog.git"
-  },
+  "repository": "git+https://github.com/Innovisite/mapFranceCatalog.git",
   "author": "fabien.pelisson@innovisite.com",
   "license": "ISC",
   "bugs": {

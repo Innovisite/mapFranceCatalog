@@ -10,5 +10,8 @@
     "corsproxy.com",
     "mapsengine.google.com",
     "s3-ap-southeast-2.amazonaws.com"
+  ],
+  "proxyDomains": [
+    "download.data.grandlyon.com"
   ]
 }
