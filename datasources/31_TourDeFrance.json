@@ -4,9 +4,9 @@
 	    "items": [
 		{
 		    "id": "edition2017",
-		    "url": "https://github.com/Innovisite/LeTourDeFrance2017/releases/download/v1.0.0/TourDeFrance2017.czml",
+		    "url": "https://raw.githubusercontent.com/Innovisite/LeTourDeFrance2017/master/dist/TourDeFrance2017.czml",
 		    "name": "Edition 2017",
-		    "dataCustodian": "<a href='https://github.com/Innovisite/LeTourDeFrance2017/releases/download/v1.0.0/TourDeFrance2017.czml'>From LeTourDeFrance2017 on github v1.0.0</a>",
+		    "dataCustodian": "See <a href='https://github.com/Innovisite/LeTourDeFrance2017'>LeTourDeFrance2017</a> on github.",
 		    "description": "",
 		    "type": "czml",
 		    "dataUrlType": "none",
