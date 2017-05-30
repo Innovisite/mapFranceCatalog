@@ -1,0 +1,80 @@
+{
+	"catalog": [
+		{
+			"type": "group",
+			"name": "CIGALSACE",
+			"items": [
+				{
+					"id": "cigalsace-cigal",
+					"url": "https://www.cigalsace.org/geoserver/cigal/ows",
+                    "name": "CIGAL",
+					"description": "Référentiels CIGAL",
+					"type": "wms-getCapabilities"
+				},
+				{
+					"id": "cigalsace-grandest",
+                    "name": "GRANDEST",
+					"url": "https://www.cigalsace.org/geoserver/GRANDEST/ows",
+					"description": "Données de la Région Grand Est",
+					"type": "wms-getCapabilities"
+				},
+                {
+					"id": "cigalsace-cd67",
+                    "name": "CD67",
+					"url": "https://www.cigalsace.org/geoserver/CD67/ows",
+					"description": "Données du Conseil Départemental du Bas-Rhin",
+					"type": "wms-getCapabilities"
+				},
+                {
+					"id": "cigalsace-ca",
+                    "name": "CA",
+					"url": "https://www.cigalsace.org/geoserver/CA/ows",
+					"description": "Données de la Communauté d'Agglomération de Colmar",
+					"type": "wms-getCapabilities"
+				},
+                {
+					"id": "cigalsace-m2a",
+                    "name": "M2A",
+					"url": "https://www.cigalsace.org/geoserver/M2A/ows",
+					"description": "Données de Mulhouse Alsace Agglomération",
+					"type": "wms-getCapabilities"
+				},
+                {
+					"id": "cigalsace-cus",
+                    "name": "CUS",
+					"url": "https://www.cigalsace.org/geoserver/CUS/ows",
+					"description": "Données de l'Eurométropole de Strasbourg",
+					"type": "wms-getCapabilities"
+				},
+                {
+					"id": "cigalsace-araa",
+                    "name": "ARAA",
+					"url": "https://www.cigalsace.org/geoserver/ARAA/ows",
+					"description": "Données de l'Association pour la Relance Agronomique en Alsace",
+					"type": "wms-getCapabilities"
+				},
+                {
+					"id": "cigalsace-aspa",
+                    "name": "ASPA",
+					"url": "https://www.cigalsace.org/geoserver/ASPA/ows",
+					"description": "Données de l'Association pour la Surveillance et l'étude de la Pollution atmosphérique en Alsace",
+					"type": "wms-getCapabilities"
+				},
+                {
+					"id": "cigalsace-pnrvn",
+                    "name": "PNRVN",
+					"url": "https://www.cigalsace.org/geoserver/PNRVN/ows",
+					"description": "Données du Parc Naturel Régional des Vosges du Nord",
+					"type": "wms-getCapabilities"
+				},
+                {
+					"id": "cigalsace-pair",
+                    "name": "PAIR",
+					"url": "https://www.cigalsace.org/geoserver/PAIR/ows",
+					"description": "Données du Pole Archéologie Interdépartemental Rhénan",
+					"type": "wms-getCapabilities"
+				}
+			]
+		}
+	]
+}
