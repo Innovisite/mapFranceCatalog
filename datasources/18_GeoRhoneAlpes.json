@@ -1,9 +1,22 @@
 {
-    "catalog": [
-	{
-	    "url": "http://carto.georhonealpes.fr/cgi-bin/mapserv",
-	    "name": "Géo Rhone-Alpes",
-	    "type": "wms-getCapabilities"
-	}
-    ]
+	"catalog": [
+		{
+			"type": "group",
+			"name": "Auvergne-Rhône-Alpes",
+			"items": [
+				{
+					"id": "rhonealpes-dreal",
+					"url": "http://carto.georhonealpes.fr/cgi-bin/mapserv",
+					"name": "DREAL Rhone-Alpes",
+					"type": "wms-getCapabilities"
+				},
+				{
+					"id": "auvergne-dreal",
+					"url": "http://carto.prodige-auvergne.fr/cgi-bin/mapserv?",
+					"name": "DREAL Auvergne",
+					"type": "wms-getCapabilities"
+				}
+			]
+		}
+	]
 }

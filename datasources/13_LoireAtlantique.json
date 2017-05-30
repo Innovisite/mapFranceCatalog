@@ -5,11 +5,13 @@
 			"name": "Loire Atlantique",
 			"items": [
 				{
+					"id": "loireatlantique-vudiciel",
 					"url": "http://services.vuduciel.loire-atlantique.fr/geoserver/ows",
 					"name": "GeoServer Vuduciel",
 					"type": "wms-getCapabilities"
 				},
 				{
+					"id": "loireatlantique-sig",
 					"url": "proxy/http://carto.sigloire.fr/cgi-bin/mapserv?",
 					"name": "Sigloire",
 					"type": "wms-getCapabilities"
