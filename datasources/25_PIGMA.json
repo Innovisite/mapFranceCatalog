@@ -1,7 +1,8 @@
 {
     "catalog": [
 	{
-	    "url": "http://ids.pigma.org/geoserver/ows",
+	    "id": "pigma",
+	    "url": "https://www.pigma.org/geoserver/wms",
 	    "name": "PIGMA",
 	    "type": "wms-getCapabilities"
 	}
